@@ -1,1 +1,3 @@
-2.0 jauna poga
+
+
+bug fix 2.0 jauna poga
