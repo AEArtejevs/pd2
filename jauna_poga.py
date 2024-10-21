@@ -1,1 +1,1 @@
-jauna poga
+1.0 jauna poga
